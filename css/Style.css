@@ -1,1 +1,7 @@
-aaa
+body {
+    background-color: #121212CC;
+    color: #EDEDED;
+}
+.accent {
+    color: #E60012;
+}
